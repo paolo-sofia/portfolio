@@ -36,7 +36,7 @@ url = "/project"
 name = "Blog"
 url = "/post"
 [[menu.main]]
-name = "Categories"
+name = "Categoriess"
 url = "/categories"
 
 # If using the giscus commenting system
