@@ -5,3 +5,7 @@
 	path = blog/public
 	url = git@github.com:paolo-sofia/paolo-sofia.github.io.git
 	branch = main
+[submodule "public"]
+	path = public
+	url = git@github.com:paolo-sofia/paolo-sofia.github.io.git
+	branch = main

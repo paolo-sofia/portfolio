@@ -1,16 +1,16 @@
 baseURL = 'https://paolo-sofia.github.io/' 
 languageCode = 'en-us'
 theme = "JuiceBar"
-title = "Paolo Sofia Portfolio"
+title = ""
 
 [params]
 author = "Paolo Sofia"
-description = "This is my portfolio"
+description = "This is my Portfolio"
 authorImage = "/images/profile.jpg"
 paginate = 5 
-Title = "your_blog_title"
-content = "I'm JuiceBar, nice to meet you(ˊ˘ˋ*)♡"
-imageUrl = "/images/avatar.jpg"
+Title = "Paolo Sofia Portfolio"
+content = "I'm Paolo Sofia, a data scientist with a master's degree in Artificial Intelligence. Welcome!"
+imageUrl = "/images/profile.jpg"
 
 # To add a new social icon 
 # More social icons can be found in JuiceBar\layouts\partials\svg.html.
@@ -31,7 +31,7 @@ name = "About"
 url = "/about"
 [[menu.main]]
 name = "Projects"
-url = "/post"
+url = "/project"
 [[menu.main]]
 name = "Blog"
 url = "/post"
