@@ -1,10 +1,6 @@
 [submodule "blog/themes/JuiceBar"]
 	path = blog/themes/JuiceBar
 	url = https://github.com/hotjuicew/hugo-JuiceBar.git
-[submodule "blog/public"]
-	path = blog/public
-	url = git@github.com:paolo-sofia/paolo-sofia.github.io.git
-	branch = main
 [submodule "public"]
 	path = public
 	url = git@github.com:paolo-sofia/paolo-sofia.github.io.git
